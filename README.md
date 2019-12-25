@@ -12,7 +12,7 @@ extract CT images then save as PNG file in the same directory.
 
  `ex2png-single-core.py` extract images with single CPU core
 
- `ex2png-multi-core.py` extract images with multi CPU core
+ `ex2png-multi-core.py` extract images with multiple CPU core
 
 
 ### Parser
@@ -29,10 +29,9 @@ change `YOUR_INPUT_DIRECTORY` as you need.
 ## Environment & Dependencies
 Using Python version == 3.7.5
 
-With Anaconda virtual environment as **environment.yml** file,
-which can be install by script 
+With Anaconda virtual environment, exported as **environment.yml** file,
 
-`conda env create -f environment.yml`.
+which can be install by script `conda env create -f environment.yml`.
 See [How to](https://www.anaconda.com/moving-conda-environments/).
 
 #### Non built-in Dependent Libraries
