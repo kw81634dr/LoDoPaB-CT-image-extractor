@@ -71,6 +71,6 @@ if __name__ == '__main__':
         file_list = walk_and_grab_files(checked_path, 'hdf5')
         print('will process', len(file_list), 'files...')
         # --process with multi-core & progress bar--
-        with mp.Pool(mp.cpu_count()) as p:
+        with mp.Pool(mp.cpu_count()-2) as p:
             list(tqdm(p.imap(convert2png, file_list), total=len(file_list)))
     print("Done.")
