@@ -6,9 +6,9 @@ Extract CT images from HDF5 file for [LoDoPaB-CT Dataset](https://arxiv.org/abs/
 
 LoDoPab-CT Dataset [Download Link](https://zenodo.org/record/3384092#.XgMFfRczby0)
 
- `ex2png-single-core.py` extract images with single core
+ `ex2png-single-core.py` extract images with single CPU core
 
- `ex2png-multi-core.py` extract images with multi core
+ `ex2png-multi-core.py` extract images with multi CPU core
 
 
 ### Parser
@@ -27,7 +27,7 @@ The script will walk through all sub-directories to find out all eligible HDF5 f
 Python version == 3.7.5
 
 With Anaconda virtual environment as `environment.yml` file.
-#### Non built-in Libraries
+#### Non built-in Dependent Libraries
 
 | Library Name              | version | description      |
 |----------------------|---------|------------------|
