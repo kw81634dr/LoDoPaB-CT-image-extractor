@@ -29,7 +29,9 @@ extract CT images then save as PNG file in the same directory.
 Python version == 3.7.5
 
 With Anaconda virtual environment as *environment.yml* file,
-which can be install by script `conda env create -f environment.yml`.
+which can be install by script 
+
+`conda env create -f environment.yml`.
 See [How to](https://www.anaconda.com/moving-conda-environments/)
 
 #### Non built-in Dependent Libraries
