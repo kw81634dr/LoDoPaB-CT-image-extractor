@@ -1,10 +1,10 @@
-# HDF5 Extractor
+# HDF5 Extractor for LoDoPaB-CT
 
 [![md-py-ver](https://img.shields.io/badge/python-v3.7-blue?style=flat-square&logo=appveyor)](http://commonmark.org)
 
 extract CT images from HDF5 file for [LoDoPaB-CT Dataset](https://arxiv.org/abs/1910.01113)
 
-[Dataset Download Link](https://zenodo.org/record/3384092#.XgMFfRczby0)
+LoDoPab-CT Dataset [Download Link](https://zenodo.org/record/3384092#.XgMFfRczby0)
 
  `ex2png-single-core.py` extract images with single core
 
