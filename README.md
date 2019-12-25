@@ -4,8 +4,11 @@
 [![md-py-ver](https://img.shields.io/badge/license-MIT-green?style=flat-square&logo=appveyor)](http://commonmark.org)
 
 Extract CT images from HDF5 file for [LoDoPaB-CT Dataset](https://arxiv.org/abs/1910.01113)
+, LoDoPab-CT Dataset [Download Link](https://zenodo.org/record/3384092#.XgMFfRczby0)
 
-LoDoPab-CT Dataset [Download Link](https://zenodo.org/record/3384092#.XgMFfRczby0)
+The script will walk through all sub-directories to find out all eligible HDF5 files, 
+
+extract CT images then save as PNG file in the same directory.
 
  `ex2png-single-core.py` extract images with single CPU core
 
@@ -17,9 +20,6 @@ LoDoPab-CT Dataset [Download Link](https://zenodo.org/record/3384092#.XgMFfRczby
 ### Syntax
 change `YOUR_INPUT_DIRECTORY` as you need.
 
-The script will walk through all sub-directories to find out all eligible HDF5 files, 
-
-extract CT images then save as PNG file in the same directory.
 
 ```
  python ex2png-single-core.py -i YOUR_INPUT_DIRECTORY
