@@ -6,6 +6,8 @@
 Extract CT images from HDF5 file of [LoDoPaB-CT Dataset](https://arxiv.org/abs/1910.01113)
 , LoDoPab-CT Dataset [Download Link](https://zenodo.org/record/3384092#.XgMFfRczby0)
 
+![image](https://github.com/kw81634dr/hdf5-extractor-for-LoDoPaB-CT/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-12-25%20%E4%B8%8B%E5%8D%884.58.35.png)
+
 The script will walk through all sub-directories to find out all eligible HDF5 files, 
 
 extract CT images then save as PNG file in the same directory.
