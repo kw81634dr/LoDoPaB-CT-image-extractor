@@ -49,5 +49,3 @@ See [How to](https://www.anaconda.com/moving-conda-environments/).
 For research only, use at your own risk.
 
 Feel free to give your comments. Thanks!
-###Log
-First commit on Dec24, 2019
