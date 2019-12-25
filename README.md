@@ -10,10 +10,14 @@ LoDoPab-CT Dataset [Download Link](https://zenodo.org/record/3384092#.XgMFfRczby
 
  `ex2png-multi-core.py` extract images with multi core
 
+
 ### Parser
-    -i  :   prompt input directory
+    -i  :   prompt input directory which contains Hdf5 files
 ### Syntax
 change `YOUR_INPUT_DIRECTORY` as you need.
+
+The script will walk through all sub-directories to find out all eligible HDF5 files. 
+
 ```
  python ex2png-single-core.py -i `YOUR_INPUT_DIRECTORY`
  python ex2png-multi-core.py -i `YOUR_INPUT_DIRECTORY`
