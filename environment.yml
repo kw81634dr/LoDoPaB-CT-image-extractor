@@ -44,5 +44,4 @@ dependencies:
     - pathos==0.2.5
     - pox==0.2.7
     - ppft==1.6.6.1
-prefix: C:\Users\matuser\Anaconda3\envs\hdf5
 
