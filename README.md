@@ -32,7 +32,7 @@ With Anaconda virtual environment as **environment.yml** file,
 which can be install by script 
 
 `conda env create -f environment.yml`.
-See [How to](https://www.anaconda.com/moving-conda-environments/)
+See [How to](https://www.anaconda.com/moving-conda-environments/).
 
 #### Non built-in Dependent Libraries
 
