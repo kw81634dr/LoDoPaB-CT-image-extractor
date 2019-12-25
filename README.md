@@ -18,6 +18,7 @@ LoDoPab-CT Dataset [Download Link](https://zenodo.org/record/3384092#.XgMFfRczby
 change `YOUR_INPUT_DIRECTORY` as you need.
 
 The script will walk through all sub-directories to find out all eligible HDF5 files, 
+
 extract CT images then save as PNG file in the same directory.
 
 ```
