@@ -22,8 +22,8 @@ The script will walk through all sub-directories to find out all eligible HDF5 f
 extract CT images then save as PNG file in the same directory.
 
 ```
- python ex2png-single-core.py -i `YOUR_INPUT_DIRECTORY`
- python ex2png-multi-core.py -i `YOUR_INPUT_DIRECTORY`
+ python ex2png-single-core.py -i YOUR_INPUT_DIRECTORY
+ python ex2png-multi-core.py -i YOUR_INPUT_DIRECTORY
  ```
 
 ## Environment & Dependencies
