@@ -32,5 +32,10 @@ With Anaconda virtual environment as `environment.yml` file.
 | [numpy](numpy.org/)          | 1.17.4| matrix operation|
 | [matplotlib](matplotlib.org/)| 3.1.1 | image I/O       |
 
+
+### Disclaimer
+For research only, use at your own risk.
+
+Feel free to give your comments. Thanks!
 ###Log
 First commit on Dec24, 2019
