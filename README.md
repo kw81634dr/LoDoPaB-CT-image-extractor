@@ -1,6 +1,7 @@
 # HDF5 Extractor for LoDoPaB-CT
 
 [![md-py-ver](https://img.shields.io/badge/python-v3.7-blue?style=flat-square&logo=appveyor)](http://commonmark.org)
+[![md-py-ver](https://img.shields.io/badge/license-MIT-green?style=flat-square&logo=appveyor)](http://commonmark.org)
 
 Extract CT images from HDF5 file for [LoDoPaB-CT Dataset](https://arxiv.org/abs/1910.01113)
 
