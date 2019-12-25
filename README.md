@@ -26,7 +26,7 @@ extract CT images then save as PNG file in the same directory.
  ```
 
 ## Environment & Dependencies
-Python version == 3.7.5
+Using Python version == 3.7.5
 
 With Anaconda virtual environment as **environment.yml** file,
 which can be install by script 
